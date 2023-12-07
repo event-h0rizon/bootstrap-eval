@@ -1,0 +1,40 @@
+body {
+  /* background-image: linear-gradient(180deg, var(--bs-secondary-bg), var(--bs-body-bg) 100px, var(--bs-body-bg)); */
+  padding-left: 0px;
+  padding-right: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.container {
+  /* padding-left: 0px;
+  padding-right: 0px;
+  margin-left: 0px;
+  margin-right: 0px; */
+
+
+  max-width: 100%;
+}
+
+.pricing-header {
+  /* max-width: 50%;  */
+}
+
+.myMain {
+  max-width: 80vw; 
+  margin: 0px auto;
+
+}
+
+.myFooter {
+  max-width: 80vw; 
+  margin: 0px auto;
+
+}
+.highlighted {
+  background-color: #F50057;
+  color: white;
+}
+.textarea {
+  width: 100%;
+}
